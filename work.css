@@ -151,13 +151,26 @@
     line-height: 27px;
     color: #0c0b0b;
 }
-.f-nameeee{
+.fnamee{   
+    position: absolute;
+    width: 100%S;
+    height: 29px;
+    left: 30px;
+    top: 230px;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 25px;
+    line-height: 29px;
+    color: #080808;
+    }
+#fname{
     position: absolute;
     box-sizing: border-box;
     width: 600px;
     height: 45px;
     left: 30px;
-    top: 200px;
+    top: 260px;
     border: 1px solid #0e0d0d;
     border-radius: 3px;
 }
